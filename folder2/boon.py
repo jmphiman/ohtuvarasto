@@ -1,2 +1,0 @@
-def booner():
-	print("baboon")
