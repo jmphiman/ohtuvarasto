@@ -80,4 +80,4 @@ class TestVarasto3(unittest.TestCase):
         self.assertAlmostEqual(self.varasto.saldo, 5)
 
     def test_strinki(self):
-        self.assertEqual(str(self.varasto), "saldo = 4, vielä tilaa 0")
+        self.assertEqual(str(self.varasto), "saldo = 5, vielä tilaa 0")
