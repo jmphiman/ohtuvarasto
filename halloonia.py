@@ -1,2 +1,2 @@
 # Jotain
-print("Vadelmia")
+print("Vadelmia ja mustikoita")
